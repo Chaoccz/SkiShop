@@ -71,6 +71,3 @@ D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\Cor
 D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\Infrastructure.dll
 D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\Infrastructure.pdb
 D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\Core.pdb
-D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\AutoMapper.dll
-D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\Ecommerce.API.staticwebassets.runtime.json
