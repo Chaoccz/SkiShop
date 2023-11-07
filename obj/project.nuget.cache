@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "JllJFvwB6HQNR3v8xQhM9CstKleALI1q5JE7Pu1EcOKwb47fYos5QZOD0yGZQKeU2B5KExzUzqHXVVlsVcc3IA==",
+  "dgSpecHash": "QRA/HEITlVeWenlaStao+C9e2JY6fgC3TcO/UiIp8uhzM3F6ZOeXYNUv75Tn4iPhH3qA9sXALxoiOwOamMT59w==",
   "success": true,
   "projectFilePath": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\Ecommerce.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gaoch\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\gaoch\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\gaoch\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\gaoch\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\gaoch\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\gaoch\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.13\\microsoft.data.sqlite.core.7.0.13.nupkg.sha512",
     "C:\\Users\\gaoch\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",
     "C:\\Users\\gaoch\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.13\\microsoft.entityframeworkcore.abstractions.7.0.13.nupkg.sha512",
