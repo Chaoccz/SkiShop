@@ -74,3 +74,5 @@ D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\Cor
 D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\AutoMapper.dll
 D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\Ecommerce.API.staticwebassets.runtime.json
+D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\Pipelines.Sockets.Unofficial.dll
+D:\.Net Projects\E-commerce\API\Ecommerce.API\Ecommerce.API\bin\Debug\net7.0\StackExchange.Redis.dll

@@ -1,6 +1,5 @@
 ﻿using Ecommerce.API.Errors;
 using Infrastructure.Data;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Ecommerce.API.Controllers
@@ -17,7 +16,7 @@ namespace Ecommerce.API.Controllers
         [HttpGet("notfound")]
         public ActionResult GetNotFoundRequest()
         {
-            var thing = _context.ProductBrands.Find(42);
+            var thing = _context.Products.Find(42);
 
             if (thing == null)
             {
