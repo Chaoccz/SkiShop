@@ -1,12 +1,12 @@
-﻿using System.Reflection;
-using Core.Entities;
+﻿using Core.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 namespace Infrastructure.Data
 {
-    public class StoreContext: DbContext
+    public class StoreContext : DbContext
     {
-        public StoreContext(DbContextOptions options) : base(options)
+        public StoreContext(DbContextOptions<StoreContext> options) : base(options)
         {
         }
 
