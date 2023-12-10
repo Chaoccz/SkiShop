@@ -1,76 +1,100 @@
 {
   "Files": [
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\boot-ang1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\boot-ang1.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\22.45526e64ffac4681.js",
+      "PackagePath": "staticwebassets\\22.45526e64ffac4681.js"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\boot-ang2.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\boot-ang2.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\234.6a7c321b49a7997d.js",
+      "PackagePath": "staticwebassets\\234.6a7c321b49a7997d.js"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\boot-core1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\boot-core1.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\242.c6cbcf01a1b04e03.js",
+      "PackagePath": "staticwebassets\\242.c6cbcf01a1b04e03.js"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\boot-core2.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\boot-core2.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\3rdpartylicenses.txt",
+      "PackagePath": "staticwebassets\\3rdpartylicenses.txt"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\boot-redis1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\boot-redis1.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\434.50ace2811c607c32.js",
+      "PackagePath": "staticwebassets\\434.50ace2811c607c32.js"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\glove-code1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\glove-code1.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\919.247dc6d6f51c1151.js",
+      "PackagePath": "staticwebassets\\919.247dc6d6f51c1151.js"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\glove-code2.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\glove-code2.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\assets\\images\\hero1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero1.jpg"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\glove-react1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\glove-react1.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\assets\\images\\hero2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero2.jpg"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\glove-react2.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\glove-react2.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\assets\\images\\hero3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\hero3.jpg"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\hat-core1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\hat-core1.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\assets\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.jpg"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\hat-react1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\hat-react1.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\assets\\images\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.png"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\hat-react2.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\hat-react2.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\assets\\images\\placeholder.png",
+      "PackagePath": "staticwebassets\\assets\\images\\placeholder.png"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\sb-ang1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ang1.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\common.e5f2ff612613116b.js",
+      "PackagePath": "staticwebassets\\common.e5f2ff612613116b.js"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\sb-ang2.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ang2.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\sb-core1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\sb-core1.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\fontawesome-webfont.2b13baa7dd4f54c9.eot",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.2b13baa7dd4f54c9.eot"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\sb-core2.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\sb-core2.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\fontawesome-webfont.8a7cb27d142e3e19.ttf",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.8a7cb27d142e3e19.ttf"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\sb-react1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\sb-react1.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\fontawesome-webfont.cf011583fb81df9f.woff",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.cf011583fb81df9f.woff"
     },
     {
-      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\images\\products\\sb-ts1.jpg",
-      "PackagePath": "staticwebassets\\images\\products\\sb-ts1.jpg"
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\fontawesome-webfont.da909aa098b0ee2d.svg",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.da909aa098b0ee2d.svg"
+    },
+    {
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\fontawesome-webfont.e9955780856cf8aa.woff2",
+      "PackagePath": "staticwebassets\\fontawesome-webfont.e9955780856cf8aa.woff2"
+    },
+    {
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\main.8db9d9e20b75866c.js",
+      "PackagePath": "staticwebassets\\main.8db9d9e20b75866c.js"
+    },
+    {
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\polyfills.146900e00815fa5f.js",
+      "PackagePath": "staticwebassets\\polyfills.146900e00815fa5f.js"
+    },
+    {
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\runtime.3f62bad395a81470.js",
+      "PackagePath": "staticwebassets\\runtime.3f62bad395a81470.js"
+    },
+    {
+      "Id": "D:\\.Net Projects\\E-commerce\\API\\Ecommerce.API\\Ecommerce.API\\wwwroot\\styles.39a48993c8ab8599.css",
+      "PackagePath": "staticwebassets\\styles.39a48993c8ab8599.css"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Ecommerce.API.Microsoft.AspNetCore.StaticWebAssets.props",
